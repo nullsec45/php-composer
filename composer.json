@@ -1,5 +1,5 @@
 {
-    "name": "library/coba-bikin-library",
+    "name": "package-fajar/belajar-package",
     "description": "Saya coba bikin library",
     "type": "library",
     "autoload": {
