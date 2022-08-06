@@ -1,0 +1,18 @@
+{
+    "name": "library/coba-bikin-library",
+    "description": "Saya coba bikin library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Library\\CobaBikinLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rama Fajar Fadhillah"
+        }
+    ],
+    "require": {
+        "php":">=8.0"
+    }
+}
