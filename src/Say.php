@@ -1,5 +1,5 @@
 <?php
-namespace Libray\CobaBikinLibrary\Customer;
+namespace Library\CobaBikinLibrary;
 
 class Say{
     public function __construct(private string $name)
